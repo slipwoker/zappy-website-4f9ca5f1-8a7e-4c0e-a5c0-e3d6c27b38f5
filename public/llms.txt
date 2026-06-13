@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://hameshapetz-hameyaetz.zappy5.app
 העיניים המקצועיות שלך בשטח: ליווי שיפוץ דירה מול קבלן מתכנון ועד מסירה. מונע טעויות חשמל ואינסטלציה יקרות, חוסך לך כסף ודאגות. ייעוץ ראשוני עוד לפני חתימה על חוזה.
 
 ### ליווי פרויקטים
-https://example.com/project-accompaniment
+https://hameshapetz-hameyaetz.zappy5.app/project-accompaniment
 שיטת ליווי פרויקטים עם נקודות בקרה קריטיות: סקירת תוכניות, ביקורת חשמל, איטום וגמר. נוודא שהקבלן עובד לפי הספר ושאתם לא משלמים על קיצורי דרך. שקט נפשי מהיום הראשון.
 
 ### אודות
-https://example.com/about
+https://hameshapetz-hameyaetz.zappy5.app/about
 מאחורי המותג עומד איש מקצוע עם שליטה בכל מקצועות השיפוץ — חשמל, טיח, איטום ועוד. אני הפרקליט שלך מול הקבלן, מביא ניסיון שלא נותן לאף אחד לעבוד עליך. הכירו את מי שיחסוך לכם עשרות אלפי שקלים.
 
 ### בלוג ומדריכים
-https://example.com/blog-guides
+https://hameshapetz-hameyaetz.zappy5.app/blog-guides
 בלוג ומדריכי עומק שחושפים את כל מה שקבלנים לא רוצים שתדעו: מטעויות חשמל נפוצות ועד טריקים בחוזי שיפוץ. תלמדו איך לפקח על הפרויקט בעצמכם ולחסוך הון. קריאה חובה לפני שמתחילים לשפץ.
 
 ### צור קשר
-https://example.com/contact
+https://hameshapetz-hameyaetz.zappy5.app/contact
 מוכנים להתחיל שיפוץ בלי חששות? צרו קשר עוד היום לשיחת ייעוץ ראשונית ללא התחייבות. נבחן יחד את התוכניות שלכם, נזהה סיכונים פוטנציאליים ונתפור לכם ליווי שמותאם בדיוק לפרויקט. ההגנה שלכם מתחילה כאן.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hameshapetz-hameyaetz.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hameshapetz-hameyaetz.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hameshapetz-hameyaetz.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: נייד נמצא בכל מקום , אזור דרום, דרום, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://hameshapetz-hameyaetz.zappy5.app/contact
+- Endpoint: https://hameshapetz-hameyaetz.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -88,6 +88,6 @@ Construction Consulting & Renovation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://hameshapetz-hameyaetz.zappy5.app/sitemap.xml
+- Robots: https://hameshapetz-hameyaetz.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://hameshapetz-hameyaetz.zappy5.app/llms-full.txt
