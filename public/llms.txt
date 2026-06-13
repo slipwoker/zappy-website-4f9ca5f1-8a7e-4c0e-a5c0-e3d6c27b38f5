@@ -1,0 +1,90 @@
+# המשפץ המייעץ — Generative Engine Optimization Map
+
+> HaMeshapetz HaMeyaetz ('The Advising Renovator') is a professional renovation consulting brand built around the concept of being the client's trusted expert eyes on-site. The founder brings comprehensive expertise across all renovation disciplines — plumbing, electrical, drywall, waterproofing, and finishing — and positions himself as the client's advocate against contractors. The brand's core promise is preventing costly mistakes, saving money, and delivering peace of mind. The tone is authoritative yet approachable, combining deep technical credibility with a personal, trustworthy advisory relationship. The flagship service is structured project accompaniment with defined checkpoints from plan review through final handover.
+
+---
+
+## Pages
+
+### בית
+https://-4f9ca5f1.zappy5.app
+העיניים המקצועיות שלך בשטח: ליווי שיפוץ דירה מול קבלן מתכנון ועד מסירה. מונע טעויות חשמל ואינסטלציה יקרות, חוסך לך כסף ודאגות. ייעוץ ראשוני עוד לפני חתימה על חוזה.
+
+### ליווי פרויקטים
+https://-4f9ca5f1.zappy5.app/project-accompaniment
+שיטת ליווי פרויקטים עם נקודות בקרה קריטיות: סקירת תוכניות, ביקורת חשמל, איטום וגמר. נוודא שהקבלן עובד לפי הספר ושאתם לא משלמים על קיצורי דרך. שקט נפשי מהיום הראשון.
+
+### אודות
+https://-4f9ca5f1.zappy5.app/about
+מאחורי המותג עומד איש מקצוע עם שליטה בכל מקצועות השיפוץ — חשמל, טיח, איטום ועוד. אני הפרקליט שלך מול הקבלן, מביא ניסיון שלא נותן לאף אחד לעבוד עליך. הכירו את מי שיחסוך לכם עשרות אלפי שקלים.
+
+### בלוג ומדריכים
+https://-4f9ca5f1.zappy5.app/blog-guides
+בלוג ומדריכי עומק שחושפים את כל מה שקבלנים לא רוצים שתדעו: מטעויות חשמל נפוצות ועד טריקים בחוזי שיפוץ. תלמדו איך לפקח על הפרויקט בעצמכם ולחסוך הון. קריאה חובה לפני שמתחילים לשפץ.
+
+### צור קשר
+https://-4f9ca5f1.zappy5.app/contact
+מוכנים להתחיל שיפוץ בלי חששות? צרו קשר עוד היום לשיחת ייעוץ ראשונית ללא התחייבות. נבחן יחד את התוכניות שלכם, נזהה סיכונים פוטנציאליים ונתפור לכם ליווי שמותאם בדיוק לפרויקט. ההגנה שלכם מתחילה כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4f9ca5f1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4f9ca5f1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4f9ca5f1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-4f9ca5f1.zappy5.app/contact
+- Endpoint: https://-4f9ca5f1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המשפץ המייעץ
+HaMeshapetz HaMeyaetz ('The Advising Renovator') is a professional renovation consulting brand built around the concept of being the client's trusted expert eyes on-site. The founder brings comprehensive expertise across all renovation disciplines — plumbing, electrical, drywall, waterproofing, and finishing — and positions himself as the client's advocate against contractors. The brand's core promise is preventing costly mistakes, saving money, and delivering peace of mind. The tone is authoritative yet approachable, combining deep technical credibility with a personal, trustworthy advisory relationship. The flagship service is structured project accompaniment with defined checkpoints from plan review through final handover.
+
+## Services/Products
+- ליווי פרויקטים בשטח
+- בדיקת תוכניות
+- נקודות ביקורת קריטיות בשטח
+- מסירת פרויקט
+- ייעוץ באינסטלציה, חשמל, גבס, איטום וגמר
+
+## Target Audience
+- בעלי דירות ובתים המתכננים שיפוץ ורוצים ליווי מקצועי מול קבלנים
+- בעלי דירות ובתים המתכננים שיפוץ
+- משקיעי נדל"ן
+- משפצים בפעם הראשונה
+
+## Industry
+Construction Consulting & Renovation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4f9ca5f1.zappy5.app/sitemap.xml
+- Robots: https://-4f9ca5f1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4f9ca5f1.zappy5.app/llms-full.txt
