@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: yosefheim33@gmail.com
+- Phone: 0503548882
+- Phone (tel): tel:0503548882
+- Address: נייד נמצא בכל מקום , אזור דרום, דרום, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
