@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-4f9ca5f1.zappy5.app
+https://example.com
 העיניים המקצועיות שלך בשטח: ליווי שיפוץ דירה מול קבלן מתכנון ועד מסירה. מונע טעויות חשמל ואינסטלציה יקרות, חוסך לך כסף ודאגות. ייעוץ ראשוני עוד לפני חתימה על חוזה.
 
 ### ליווי פרויקטים
-https://-4f9ca5f1.zappy5.app/project-accompaniment
+https://example.com/project-accompaniment
 שיטת ליווי פרויקטים עם נקודות בקרה קריטיות: סקירת תוכניות, ביקורת חשמל, איטום וגמר. נוודא שהקבלן עובד לפי הספר ושאתם לא משלמים על קיצורי דרך. שקט נפשי מהיום הראשון.
 
 ### אודות
-https://-4f9ca5f1.zappy5.app/about
+https://example.com/about
 מאחורי המותג עומד איש מקצוע עם שליטה בכל מקצועות השיפוץ — חשמל, טיח, איטום ועוד. אני הפרקליט שלך מול הקבלן, מביא ניסיון שלא נותן לאף אחד לעבוד עליך. הכירו את מי שיחסוך לכם עשרות אלפי שקלים.
 
 ### בלוג ומדריכים
-https://-4f9ca5f1.zappy5.app/blog-guides
+https://example.com/blog-guides
 בלוג ומדריכי עומק שחושפים את כל מה שקבלנים לא רוצים שתדעו: מטעויות חשמל נפוצות ועד טריקים בחוזי שיפוץ. תלמדו איך לפקח על הפרויקט בעצמכם ולחסוך הון. קריאה חובה לפני שמתחילים לשפץ.
 
 ### צור קשר
-https://-4f9ca5f1.zappy5.app/contact
+https://example.com/contact
 מוכנים להתחיל שיפוץ בלי חששות? צרו קשר עוד היום לשיחת ייעוץ ראשונית ללא התחייבות. נבחן יחד את התוכניות שלכם, נזהה סיכונים פוטנציאליים ונתפור לכם ליווי שמותאם בדיוק לפרויקט. ההגנה שלכם מתחילה כאן.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4f9ca5f1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4f9ca5f1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4f9ca5f1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-4f9ca5f1.zappy5.app/contact
-- Endpoint: https://-4f9ca5f1.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -85,6 +85,6 @@ Construction Consulting & Renovation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4f9ca5f1.zappy5.app/sitemap.xml
-- Robots: https://-4f9ca5f1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4f9ca5f1.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
