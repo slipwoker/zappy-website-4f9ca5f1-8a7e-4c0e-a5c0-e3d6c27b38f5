@@ -161,26 +161,31 @@
       // Track button clicks (counted as actions)
       if (target.tagName === 'BUTTON' || target.closest('button')) {
         var button = target.tagName === 'BUTTON' ? target : target.closest('button');
-        trackEvent('click', {
+        var clickMeta = {
           element: 'button',
           text: button.textContent.trim().substring(0, 100),
           id: button.id || null,
           class: button.className || null
-        });
+        };
+        
+        trackEvent('click', clickMeta);
       }
       
       // Track link clicks (navigation - not counted as actions)
       else if (target.tagName === 'A' || target.closest('a')) {
         var link = target.tagName === 'A' ? target : target.closest('a');
-        trackEvent('navigation', {
+        var navMeta = {
           element: 'link',
           text: link.textContent.trim().substring(0, 100),
           href: link.href,
           external: link.hostname !== window.location.hostname
-        });
+        };
+        
+        trackEvent('navigation', navMeta);
       }
     }, true);
   }
+  
   
   // Track form submissions
   if (config.trackFormSubmissions) {
@@ -814,10 +819,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim" id="index-hero-section" data-zappy-content-align="center-mid-right">
   <!-- Background Media Layer -->
   <div class="index-hero-section__bg-wrapper">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Cinematic night-time renovation site with a professional consultant in hi-vis vest inspecting blueprints under construction lighting. Cyan blueprint grid lines and subtle lime-green checkpoint markers are overlaid on the scene. Dark, premium, realistic photography style." width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="יועץ שיפוצים מקצועי בשטח, בודק תוכניות באתר בנייה" class="index-hero-section__bg-img">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Cinematic night-time renovation site with a professional consultant in hi-vis vest inspecting blueprints under construction lighting. Cyan blueprint grid lines and subtle lime-green checkpoint markers are overlaid on the scene. Dark, premium, realistic photography style." width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="יועץ שיפוצים מקצועי בשטח, בודק תוכניות באתר בנייה" class="index-hero-section__bg-img" data-hero-background="true" data-element-type="image" data-element-id="img-1781520996994-tj7ec211y">
   </div>
 
   <!-- Scrim Overlay Layer -->
@@ -847,16 +852,16 @@
   </div>
 
   <!-- Text/CTA Overlay Group -->
-  <div class="index-hero-section__overlay">
+  <div class="index-hero-section__overlay" data-zappy-align-target="true" style="">
     <h1 class="index-hero-section__headline">העיניים המקצועיות שלך בשטח,<br>מול כל קבלן</h1>
     <h3 class="index-hero-section__subtitle">מונעים טעויות קריטיות, חוסכים עשרות אלפי שקלים, ומעניקים לך שקט נפשי מלא לאורך כל השיפוץ</h3>
     
     <div class="index-hero-section__cta-group">
-      <a href="#contact" class="index-hero-section__btn index-hero-section__btn--primary">
+      <a href="#contact" class="index-hero-section__btn index-hero-section__btn--primary" data-element-type="button" data-element-id="btn-1781520996990-ygs0nnxu7" data-native-element="true">
         קבע שיחת ייעוץ ראשונית
         <svg data-element-type="icon" data-icon-type="svg" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"></path></svg>
       </a>
-      <a href="#services" class="index-hero-section__btn index-hero-section__btn--secondary">
+      <a href="#services" class="index-hero-section__btn index-hero-section__btn--secondary" data-element-type="button" data-element-id="btn-1781520996990-yed23ljou" data-native-element="true">
         גלה את מסלול ליווי הפרויקט
         <svg data-element-type="icon" data-icon-type="svg" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"></path></svg>
       </a>
